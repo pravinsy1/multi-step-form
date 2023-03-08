@@ -77,7 +77,7 @@ input[type="number"] {
   border: none;
 }
 .side-bar {
-  background: url(/assets/images/bg-sidebar-desktop.svg);
+  background: url(../images/bg-sidebar-desktop.svg);
   background-repeat: no-repeat;
   background-size: contain;
   min-height: 568px;
@@ -299,7 +299,7 @@ footer {
   }
 
   .side-bar {
-    background: url(/assets/images/bg-sidebar-mobile.svg);
+    background: url(../images/bg-sidebar-mobile.svg);
     background-repeat: no-repeat;
     min-height: 172px;
     border-radius: 0;
